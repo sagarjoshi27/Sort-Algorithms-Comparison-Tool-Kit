@@ -10,3 +10,5 @@ The generated .CSV file will be opened through Microsoft Excel, through which a 
 On the graph we will have time taken in microseconds and the size of array in integers. 
 This will help clearly identify which algorithm takes longer to sort and which algorithm takes the fastest. 
 Thus, gives an analysis for the algorithm. 
+
+![](image1.png)
